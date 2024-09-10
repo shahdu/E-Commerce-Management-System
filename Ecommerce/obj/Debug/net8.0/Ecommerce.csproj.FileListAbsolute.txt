@@ -1,0 +1,15 @@
+C:\Users\Shahad\c_course\Building-a-Simple-E-Commerce-Management-System\Ecommerce\bin\Debug\net8.0\Ecommerce.exe
+C:\Users\Shahad\c_course\Building-a-Simple-E-Commerce-Management-System\Ecommerce\bin\Debug\net8.0\Ecommerce.deps.json
+C:\Users\Shahad\c_course\Building-a-Simple-E-Commerce-Management-System\Ecommerce\bin\Debug\net8.0\Ecommerce.runtimeconfig.json
+C:\Users\Shahad\c_course\Building-a-Simple-E-Commerce-Management-System\Ecommerce\bin\Debug\net8.0\Ecommerce.dll
+C:\Users\Shahad\c_course\Building-a-Simple-E-Commerce-Management-System\Ecommerce\bin\Debug\net8.0\Ecommerce.pdb
+C:\Users\Shahad\c_course\Building-a-Simple-E-Commerce-Management-System\Ecommerce\obj\Debug\net8.0\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shahad\c_course\Building-a-Simple-E-Commerce-Management-System\Ecommerce\obj\Debug\net8.0\Ecommerce.AssemblyInfoInputs.cache
+C:\Users\Shahad\c_course\Building-a-Simple-E-Commerce-Management-System\Ecommerce\obj\Debug\net8.0\Ecommerce.AssemblyInfo.cs
+C:\Users\Shahad\c_course\Building-a-Simple-E-Commerce-Management-System\Ecommerce\obj\Debug\net8.0\Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\Shahad\c_course\Building-a-Simple-E-Commerce-Management-System\Ecommerce\obj\Debug\net8.0\Ecommerce.sourcelink.json
+C:\Users\Shahad\c_course\Building-a-Simple-E-Commerce-Management-System\Ecommerce\obj\Debug\net8.0\Ecommerce.dll
+C:\Users\Shahad\c_course\Building-a-Simple-E-Commerce-Management-System\Ecommerce\obj\Debug\net8.0\refint\Ecommerce.dll
+C:\Users\Shahad\c_course\Building-a-Simple-E-Commerce-Management-System\Ecommerce\obj\Debug\net8.0\Ecommerce.pdb
+C:\Users\Shahad\c_course\Building-a-Simple-E-Commerce-Management-System\Ecommerce\obj\Debug\net8.0\Ecommerce.genruntimeconfig.cache
+C:\Users\Shahad\c_course\Building-a-Simple-E-Commerce-Management-System\Ecommerce\obj\Debug\net8.0\ref\Ecommerce.dll
